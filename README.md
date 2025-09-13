@@ -83,5 +83,5 @@ artificial-intelligence-lab/
 
 ---
 
-📌 Author: **Adnan**
+📌 Author: **Ashiqur Rahman**
 🔗 Repository: [Artificial Intelligence Lab](https://github.com/imashiqe/artificial-intelligence-lab.git)
